@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Sidhant Suvagiya
-- 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning web Developement
 - 📫 How to reach me https://twitter.com/sidhant1122
 
 <!---
